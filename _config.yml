@@ -1,0 +1,4 @@
+name: tkok
+markdown: redcarpet
+pygments: true
+baseurl: /christmas-recipes
